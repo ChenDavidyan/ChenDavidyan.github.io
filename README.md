@@ -1,7 +1,7 @@
 # ChenDavidyan.github.io
 
 Welcome to my page! 
-* my name is Chen, I am a MSc student at the Weizmann Institute of Science.
+* My name is Chen, I am a MSc student at the Weizmann Institute of Science.
  
 * I love to study and investigate cool scientific stuff.
   
