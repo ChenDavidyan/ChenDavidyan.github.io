@@ -15,5 +15,5 @@ I am a master studet at the WIS, currently doing my seconed rotation at [Dr. Yon
 ## About the course
 * All of my solutions can be founs in the [dolutions repository](https://github.com/ChenDavidyan/Python_assignments/tree/main)
 * check out other students's in the course:
-* [Hernan Rubinstein] (https://hernanrubinstein.github.io/)
-* [Liron Hoffman] (https://liroh99.github.io/)
+* [Hernan Rubinstein](https://hernanrubinstein.github.io/)
+* [Liron Hoffman](https://liroh99.github.io/)
