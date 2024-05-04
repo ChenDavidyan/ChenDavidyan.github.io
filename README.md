@@ -13,7 +13,7 @@ I am a master studet at the WIS, currently doing my seconed rotation at [Dr. Yon
 ![](/2e3d8908-41d4-4604-8eeb-91bbba1fe5b2.JPG)
 
 ## About the course
-* All of my solutions can be founs in the [dolutions repository](https://github.com/ChenDavidyan/Python_assignments/tree/main)
+* All of my solutions can be found in the [solutions repository](https://github.com/ChenDavidyan/Python_assignments/tree/main)
 * check out other students's in the course:
 * [Hernan Rubinstein](https://hernanrubinstein.github.io/)
 * [Liron Hoffman](https://liroh99.github.io/)
