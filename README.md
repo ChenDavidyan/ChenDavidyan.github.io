@@ -5,6 +5,8 @@ Welcome to my page!
 ## About me:
 I am a master studet at the WIS, currently doing my seconed rotation at [Dr. Yonatan Stelzer lab](https://www.weizmann.ac.il/mcb/Stelzer/home)
 
+I did my B.Sc. in biology at Tel Aviv University.
+
 ![](/WhatsApp Image 2024-04-30 at 23.40.32.jpeg)
 
 ## My Activity
